@@ -1,0 +1,38 @@
+/* .sidebar {
+    position:fixed;
+    top: 0;
+    left: -195px;
+    width: 130px;
+    height: 100%;
+    background-color: #444;
+    color: white;
+    transition: left 0.3s ease;
+    padding: 15px;
+  }
+  
+  .sidebar.open {
+    left: 0;
+  }
+  
+  .close-button {
+    background: none;
+    border: none;
+    color: rgb(237, 6, 6);
+    font-size: 24px;
+    cursor: pointer;
+  }
+  
+  .sidebar ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .sidebar ul li {
+    margin: 15px 0;
+  }
+  
+  .sidebar ul li a {
+    color: white;
+    text-decoration: none;
+  }
+   */

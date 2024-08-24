@@ -1,0 +1,49 @@
+/* Navbar component CSS */
+.fixed-top {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 1000; /* Ensure it's above other content */
+}
+
+.navbar {
+  background-color: #343a40; /* Dark background color */
+}
+
+.navbar-brand {
+  color: #ffffff; /* White text color */
+  font-size: 1.5rem; /* Adjust font size as needed */
+  font-weight: bold; /* Make text bold */
+}
+
+.btn-dark {
+  color: #ffffff; /* White text color */
+  background-color: #343a40; /* Dark background color */
+  border-color: #343a40; /* Dark border color */
+}
+
+.btn-dark:hover {
+  background-color: #23272b; /* Darken background on hover */
+}
+
+.form-control {
+  background-color: #495057; /* Darker background for input */
+  color: #ffffff; /* White text color */
+  border-color: #495057; /* Darker border color */
+}
+
+.form-control::placeholder {
+  color: #adb5bd; /* Lighter placeholder text color */
+}
+
+.text-light {
+  color: #ffffff; /* White text color */
+}
+
+.fa-shopping-cart {
+  color: #ffffff; /* White icon color */
+}
+
+.fa-shopping-cart:hover {
+  color: #f8f9fa; /* Lighten icon color on hover */
+}
